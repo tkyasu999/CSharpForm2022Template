@@ -16,5 +16,11 @@ Template for using Windows Form in Visual Studio 2022 , CSharp environment
 - CppCLR_WinFormProject テンプレート検索する
 - Windows フォームアプリを選択する
 
+# テンプレート
+- CSharpForm2022Template
+
+# 環境
+- Visual Studio 2022
+
 # 参照
 - https://komputilo.blogspot.com/2020/10/visual-studio-2019c.html
