@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpForm2022Template", "CSharpForm2022Template\CSharpForm2022Template.csproj", "{7AD02047-2C02-462E-93E9-2B29F6F2D9A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AD02047-2C02-462E-93E9-2B29F6F2D9A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD02047-2C02-462E-93E9-2B29F6F2D9A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD02047-2C02-462E-93E9-2B29F6F2D9A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD02047-2C02-462E-93E9-2B29F6F2D9A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C28A6C6A-D143-4087-8F9E-2C063CCB596F}
+	EndGlobalSection
+EndGlobal
